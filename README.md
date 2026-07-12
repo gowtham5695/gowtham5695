@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Gowtham%20Nodagala&fontSize=38&desc=AI%20and%20Data%20Science%20Student&descColor=8AFF57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=200&fontColor=CAFF3C&text=Gowtham%20Nodagala&fontSize=38&fontAlignY=35&desc=AI%20and%20Data%20Science%20Student&descAlignY=62&descSize=18&descColor=8AFF57&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%26+Data+Science+Student;%24+skills+%E2%86%92+Python+%7C+ML+%7C+React+%7C+Spring+Boot;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Internship" />
 
