@@ -1,197 +1,145 @@
-<div align="center">
+# Gowtham Nodagala
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=200&fontColor=CAFF3C&text=Gowtham%20Nodagala&fontSize=38&fontAlignY=35&desc=AI%20and%20Data%20Science%20Student&descAlignY=62&descSize=18&descColor=8AFF57&animation=fadeIn" />
+**AI & Data Science Student | Aspiring AI/ML Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%26+Data+Science+Student;%24+skills+%E2%86%92+Python+%7C+ML+%7C+React+%7C+Spring+Boot;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Internship" />
+I build intelligent applications and software solutions using Machine Learning, AI, and Full Stack Development.
 
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-0A0F08?style=flat-square&logo=googlescholar&logoColor=CAFF3C&labelColor=060D08&color=1A2B1A" />
-<img src="https://img.shields.io/badge/Location-Vijayawada%2C%20India-0A0F08?style=flat-square&logo=googlemaps&logoColor=CAFF3C&labelColor=060D08&color=1A2B1A" />
-
-<br><br>
-
-<a href="https://gowthamnodagala-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=0A0F08&labelColor=0A0F08" /></a>
-<a href="https://linkedin.com/in/gowtham"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08" /></a>
-<a href="https://github.com/gowtham5695"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=0A0F08" /></a>
-<a href="mailto:2400080181aids@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=0A0F08" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gowtham5695&color=CAFF3C&style=flat-square&label=Profile+Views" />
-
-</div>
+[Portfolio](https://gowthamnodagala-portfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/gowtham) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
 
 ---
 
-## `> whoami`
+## About Me
 
-Artificial Intelligence and Data Science student with a strong foundation in Python, Java, and Machine Learning fundamentals, passionate about building AI-driven and full-stack solutions to real-world problems.
-
-```bash
-$ cat .profile
-
-ROLE     =  AI & Data Science Student
-EXP      =  Building since 2024
-DOMAIN   =  Machine Learning  |  NLP  |  Full Stack Development
-STACK    =  Python  |  Java  |  React  |  Spring Boot
-OPEN_TO  =  AI/ML Internship Opportunities
-```
+- 🎓 B.Tech in Artificial Intelligence & Data Science at KL University
+- 📊 CGPA: 9.08
+- 🤖 Interested in Machine Learning, NLP, AI Engineering and Data Science
+- 💻 Experienced in building AI-powered applications and full-stack systems
+- 🌱 Currently exploring advanced Machine Learning and Generative AI
+- 🎯 Open to AI/ML and Software Development Internship opportunities
 
 ---
 
-## `> ls tech-stack/`
+## Technical Skills
 
-<div align="center">
+**Programming Languages**
+- Python, Java, C, SQL
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+**Machine Learning & AI**
+- Machine Learning
+- Scikit-learn
+- XGBoost
+- Feature Engineering
+- Natural Language Processing (NLP)
 
-<br><br>
-
-**AI / Data**
-<br>
-<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" />
-
-<br><br>
+**Data Science**
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Data Analysis
+- Data Visualization
+- Statistics & Probability
 
 **Web Development**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+- HTML, CSS, React
+- FastAPI
+- Spring Boot
+- REST APIs
 
-<br><br>
-
-**Backend & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb&theme=dark" />
-
-<br><br>
+**Databases**
+- MySQL, PostgreSQL, MongoDB
 
 **Cloud & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,eclipse&theme=dark" />
+- AWS Cloud
+- Git, GitHub
+- VS Code, Eclipse
+- Jupyter Notebook
 
-</div>
-
----
-
-## `> cat expertise.md`
-
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| Machine Learning | Intermediate | ML fundamentals, NumPy, Pandas, Scikit-learn |
-| Natural Language Processing | Intermediate | Multilingual chatbot design, document summarization |
-| Full Stack Development | Intermediate | React frontend + Spring Boot REST APIs |
-| Data Structures & Algorithms | Strong | Stack-based systems, algorithmic problem solving |
-| Cloud Computing | Foundational | AWS Cloud, AWS Certified Cloud Practitioner |
+**Computer Science Fundamentals**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Complexity Analysis
 
 ---
 
-## `> ls featured-projects/`
+## Featured Projects
 
-<details open>
-<summary><b>&#9654; Peer Review Platform &mdash; Full-Stack Peer Review & Feedback System</b></summary>
-<br>
+### 1. InterviewMitra Pro — AI Mock Interview Coach
 
-A full-stack web application enabling peer review and feedback sharing, with a responsive React frontend and a Spring Boot REST API backend.
+**Tech Stack:** React · Python · Google Gemini · AWS
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | React &middot; Spring Boot &middot; MySQL |
-| **Scale** | Full-stack academic/personal project with separate frontend & backend repos |
-| **Impact** | Modular, scalable architecture designed to improve collaboration and usability |
-| **Live Demo** | [peer-review-plaform.netlify.app](https://peer-review-plaform.netlify.app) |
-| **Frontend Repo** | [View](https://github.com/gowtham5695/Peer-Review-and-Collobration-Platform) |
-| **Backend Repo** | [View](https://github.com/gowtham5695/Peer-Review-and-Collabration-Platform-backend) |
+- Built a voice-based AI interview platform with resume-aware questions and three-round mock interviews.
+- Implemented speech recognition, text-to-speech and automated feedback with scoring.
+- Integrated Google Gemini with rule-based fallbacks for AI question generation and evaluation.
+- Deployed a serverless backend using AWS Lambda, API Gateway, DynamoDB and AWS SAM.
 
-Designed and built the responsive UI in React, implemented REST APIs in Spring Boot, and integrated MySQL for persistent storage.
+### 2. RevivePay AI — Agentic Payment Failure Recovery System
 
-</details>
+**Tech Stack:** Python · Scikit-learn · XGBoost · FastAPI · React
 
----
+- Developed an end-to-end machine learning system to predict whether failed payments are recoverable.
+- Implemented five explainable recovery actions: retry, delayed retry, switch payment method, incentive and manual escalation.
+- Integrated an ML-powered backend with a React frontend.
 
-## `> cat achievements.md`
+[Live Demo](https://revive-pay-ai.vercel.app/)
 
-<div align="center">
+### 3. Teachers Lesson Plan Architect — Lesson Planning Platform
 
-| Achievement | Detail |
-| :-- | :-- |
-| 🏆 HackWithAI — 24-Hour AI Hackathon 2026 | KLH Bachupally ACM Student Chapter, KL University |
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🤖 GitHub Copilot Certification | GitHub |
-| 🗣 Cambridge Linguaskill Certification | English Proficiency |
+**Tech Stack:** Web Technologies
 
-</div>
+- Designed a platform to help teachers generate structured lesson plans.
+- Organized learning objectives, activities and assessments into a systematic workflow.
+- Improved lesson planning efficiency through web-based automation.
 
----
+### 4. Peer Review Platform — Full Stack Web Application
 
-## `> cat education.yaml`
+**Tech Stack:** React · Spring Boot · MySQL
 
-<div align="center">
+- Developed a multi-tier web application for peer reviews and feedback sharing.
+- Built responsive interfaces using React.
+- Implemented REST APIs using Spring Boot.
+- Integrated MySQL for persistent data storage.
 
-<img src="https://img.shields.io/badge/KL%20University-B.Tech%20AI%20%26%20Data%20Science%20%7C%20CGPA%209.03-0A0F08?style=for-the-badge&logo=googlescholar&logoColor=CAFF3C&labelColor=0A0F08" />
-
-</div>
+[Live Demo](https://peer-review-plaform.netlify.app/)
 
 ---
 
-## `> github-analytics --live`
+## Certifications
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gowtham5695&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham5695&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5695&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham5695&theme=matrix&no-frame=true&column=7" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5695&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
-
-</div>
+- AWS Certified Cloud Practitioner
+- GitHub Copilot Certification
+- Cambridge Linguaskill Certification – English Proficiency
 
 ---
 
-## `> cat current-focus.yaml`
+## Hackathons & Competitions
 
-```yaml
-learning:
-  - Advanced Machine Learning & Deep Learning concepts
-  - System design for scalable full-stack applications
+**HackWithAI – 24-Hour AI Hackathon (2026)**
 
-building:
-  - SAARA Voice Assistant  # multilingual AI chatbot (English & Telugu)
-  - Personal projects exploring NLP and data analysis
-
-open_to:
-  - AI/ML Internship opportunities
-  - Roles applying AI, data analysis, and software development
-```
+KLH Bachupally ACM Student Chapter, KL University.
 
 ---
 
-## `> connect --with-me`
+## Education
 
-<div align="center">
+**KL University**
+- B.Tech – Artificial Intelligence and Data Science
+- Vijayawada, India
+- CGPA: 9.08
+- July 2024 – Present
 
-<a href="https://gowthamnodagala-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=0A0F08&labelColor=0A0F08" /></a>
-<a href="https://linkedin.com/in/gowtham"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08" /></a>
-<a href="mailto:2400080181aids@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=0A0F08" /></a>
+**SR Junior College**
+- Intermediate (MPC)
+- Percentage: 79.1%
 
-<br><br>
+---
 
-*"Learning by building — one project at a time."*
+## Connect With Me
 
-<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&section=footer&animation=fadeIn" />
+- LinkedIn: https://linkedin.com/in/gowtham
+- GitHub: https://github.com/gowtham5695
+- Email: 2400080181aids@gmail.com
 
-</div>
+---
+
+*Learning continuously. Building intelligently. Solving real-world problems.*
