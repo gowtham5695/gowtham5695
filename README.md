@@ -1,105 +1,121 @@
-# Gowtham Nodagala
+ <div align="center">
 
-**AI & Data Science Student | Aspiring AI/ML Engineer**
+# GOVARDHAN GOWTHAM
 
-I build intelligent applications and software solutions using Machine Learning, AI, and Full Stack Development.
+**AI & DATA SCIENCE STUDENT | ASPIRING AI/ML ENGINEER**
+
+*Turning ideas into intelligent applications.*
 
 [Portfolio](https://gowthamnodagala-portfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/gowtham) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
 
+📍 Vijayawada, India
+
+</div>
+
 ---
+
+> [!IMPORTANT]
+> B.Tech Artificial Intelligence & Data Science student at KL University | **CGPA: 9.08**
 
 ## About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science at KL University
-- 📊 CGPA: 9.08
-- 🤖 Interested in Machine Learning, NLP, AI Engineering and Data Science
-- 💻 Experienced in building AI-powered applications and full-stack systems
-- 🌱 Currently exploring advanced Machine Learning and Generative AI
-- 🎯 Open to AI/ML and Software Development Internship opportunities
+I'm passionate about building practical solutions using Artificial Intelligence, Machine Learning and Software Development.
 
----
+- Exploring Machine Learning, Deep Learning and NLP.
+- Building AI-powered applications and full-stack platforms.
+- Working with Python, React, Spring Boot and AWS.
+- Interested in AI/ML engineering and real-world problem solving.
 
 ## Technical Skills
 
-**Programming Languages**
-- Python, Java, C, SQL
+**Programming**  
+Python · Java · C · SQL
 
-**Machine Learning & AI**
-- Machine Learning
-- Scikit-learn
-- XGBoost
-- Feature Engineering
-- Natural Language Processing (NLP)
+**AI & Machine Learning**  
+Machine Learning · Scikit-learn · XGBoost · Feature Engineering · NLP
 
-**Data Science**
-- NumPy, Pandas
-- Matplotlib, Seaborn
-- Data Analysis
-- Data Visualization
-- Statistics & Probability
+**Data Science**  
+NumPy · Pandas · Matplotlib · Seaborn · Statistics · Data Analysis
 
-**Web Development**
-- HTML, CSS, React
-- FastAPI
-- Spring Boot
-- REST APIs
+**Web Development**  
+HTML · CSS · React · Spring Boot · FastAPI · REST APIs
 
-**Databases**
-- MySQL, PostgreSQL, MongoDB
+**Databases & Cloud**  
+MySQL · PostgreSQL · MongoDB · AWS · Lambda · API Gateway · DynamoDB
 
-**Cloud & Tools**
-- AWS Cloud
-- Git, GitHub
-- VS Code, Eclipse
-- Jupyter Notebook
-
-**Computer Science Fundamentals**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Complexity Analysis
+**Core Concepts & Tools**  
+Data Structures · Algorithms · OOP · Operating Systems · Git · GitHub · VS Code · Jupyter
 
 ---
 
-## Featured Projects
+## Projects
 
-### 1. InterviewMitra Pro — AI Mock Interview Coach
+### 01. InterviewMitra Pro
+**AI Mock Interview Coach**
 
-**Tech Stack:** React · Python · Google Gemini · AWS
+A voice-based AI interview platform that provides personalized interview practice and automated feedback.
 
-- Built a voice-based AI interview platform with resume-aware questions and three-round mock interviews.
-- Implemented speech recognition, text-to-speech and automated feedback with scoring.
-- Integrated Google Gemini with rule-based fallbacks for AI question generation and evaluation.
-- Deployed a serverless backend using AWS Lambda, API Gateway, DynamoDB and AWS SAM.
+- Resume-aware questions and three-round mock interviews.
+- Speech recognition and text-to-speech.
+- Automated feedback and performance scoring.
+- Google Gemini integration with rule-based fallbacks.
+- Serverless architecture using AWS Lambda, API Gateway and DynamoDB.
 
-### 2. RevivePay AI — Agentic Payment Failure Recovery System
+`React` `Python` `Gemini` `AWS`
 
-**Tech Stack:** Python · Scikit-learn · XGBoost · FastAPI · React
+### 02. RevivePay AI
+**Agentic Payment Failure Recovery System**
 
-- Developed an end-to-end machine learning system to predict whether failed payments are recoverable.
-- Implemented five explainable recovery actions: retry, delayed retry, switch payment method, incentive and manual escalation.
-- Integrated an ML-powered backend with a React frontend.
+An intelligent system that predicts payment recovery probability and recommends one of five recovery strategies.
 
-[Live Demo](https://revive-pay-ai.vercel.app/)
+- ML-powered payment recovery prediction.
+- Explainable recovery recommendations.
+- XGBoost and Scikit-learn models.
+- FastAPI backend and React frontend.
 
-### 3. Teachers Lesson Plan Architect — Lesson Planning Platform
+`Python` `XGBoost` `FastAPI` `React`
 
-**Tech Stack:** Web Technologies
+[Live Demo ↗](https://revive-pay-ai.vercel.app/)
 
-- Designed a platform to help teachers generate structured lesson plans.
-- Organized learning objectives, activities and assessments into a systematic workflow.
-- Improved lesson planning efficiency through web-based automation.
+### 03. Teachers Lesson Plan Architect
+**Lesson Planning Web Platform**
 
-### 4. Peer Review Platform — Full Stack Web Application
+A web application designed to help teachers generate structured lesson plans.
 
-**Tech Stack:** React · Spring Boot · MySQL
+- Organizes objectives, activities and assessments.
+- Simplifies lesson planning workflows.
+- Uses web-based automation.
 
-- Developed a multi-tier web application for peer reviews and feedback sharing.
-- Built responsive interfaces using React.
-- Implemented REST APIs using Spring Boot.
-- Integrated MySQL for persistent data storage.
+`Web Development` `Automation`
 
-[Live Demo](https://peer-review-plaform.netlify.app/)
+### 04. Peer Review Platform
+**Full-Stack Collaboration Application**
+
+A multi-tier application for peer review and feedback sharing.
+
+- Responsive React interface.
+- Spring Boot REST APIs.
+- MySQL database integration.
+
+`React` `Spring Boot` `MySQL`
+
+[Live Demo ↗](https://peer-review-plaform.netlify.app/)
+
+---
+
+## Education
+
+**KL University**  
+B.Tech – Artificial Intelligence & Data Science  
+2024 – Present · **9.08 CGPA**
+
+**SR Junior College**  
+Intermediate – MPC · 79.1%  
+2022 – 2024
+
+**Holy Angels E.M. School**  
+SSC · 85%  
+2021 – 2022
 
 ---
 
@@ -107,39 +123,26 @@ I build intelligent applications and software solutions using Machine Learning, 
 
 - AWS Certified Cloud Practitioner
 - GitHub Copilot Certification
-- Cambridge Linguaskill Certification – English Proficiency
+- Cambridge Linguaskill – English Proficiency
+
+## Hackathons
+
+**HackWithAI – 24-Hour AI Hackathon 2026**  
+KLH Bachupally ACM Student Chapter · KL University
 
 ---
 
-## Hackathons & Competitions
+## Let's Connect
 
-**HackWithAI – 24-Hour AI Hackathon (2026)**
+I'm always open to learning, collaborating and building meaningful projects.
 
-KLH Bachupally ACM Student Chapter, KL University.
+- 🌐 [Portfolio](https://gowthamnodagala-portfolio.netlify.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/gowtham)
+- 🐙 [GitHub](https://github.com/gowtham5695)
+- 📧 [Email](mailto:2400080181aids@gmail.com)
 
----
+<div align="center">
 
-## Education
+**Building. Learning. Improving.**
 
-**KL University**
-- B.Tech – Artificial Intelligence and Data Science
-- Vijayawada, India
-- CGPA: 9.08
-- July 2024 – Present
-
-**SR Junior College**
-- Intermediate (MPC)
-- Percentage: 79.1%
-
----
-
-## Connect With Me
-
-
-- LinkedIn: https://linkedin.com/in/gowtham
-- GitHub: https://github.com/gowtham5695
-- Email: 2400080181aids@gmail.com
-
----
-
-*Learning continuously. Building intelligently. Solving real-world problems.*
+</div>
