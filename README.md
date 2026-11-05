@@ -99,7 +99,7 @@ A multi-tier application for peer review and feedback sharing.
 
 `React` `Spring Boot` `MySQL`
 
-[Live Demo ↗](https://peer-review-plaform.netlify.app/)
+[Live Demo ↗](https://peerhub-gamma.vercel.app/)
 
 ---
 
