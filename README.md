@@ -6,7 +6,7 @@
 
 *Turning ideas into intelligent applications.*
 
-[Portfolio](https://gowthamnodagala-portfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/gowtham) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
+ [LinkedIn](https://linkedin.com/in/gowtham) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
 
 📍 Vijayawada, India
 
@@ -136,7 +136,6 @@ KLH Bachupally ACM Student Chapter · KL University
 
 I'm always open to learning, collaborating and building meaningful projects.
 
-- 🌐 [Portfolio](https://gowthamnodagala-portfolio.netlify.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/gowtham)
 - 🐙 [GitHub](https://github.com/gowtham5695)
 - 📧 [Email](mailto:2400080181aids@gmail.com)
