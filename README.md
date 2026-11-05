@@ -6,7 +6,7 @@
 
 *Turning ideas into intelligent applications.*
 
- [LinkedIn]((https://www.linkedin.com/in/gowthamnodagala/)) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/gowthamnodagala/) · [GitHub](https://github.com/gowtham5695) · [Email](mailto:2400080181aids@gmail.com)
 
 📍 Vijayawada, India
 
@@ -136,7 +136,7 @@ KLH Bachupally ACM Student Chapter · KL University
 
 I'm always open to learning, collaborating and building meaningful projects.
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gowthamnodagala/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/gowthamnodagala/)
 - 🐙 [GitHub](https://github.com/gowtham5695)
 - 📧 [Email](mailto:2400080181aids@gmail.com)
 
